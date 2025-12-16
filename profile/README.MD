@@ -102,21 +102,46 @@ CarbonForge is a comprehensive VPS hosting service managed entirely through Disc
 
 <div align="center">
 
-### CarbonForgeOfi's GitHub Stats
+### Organization Repositories
 
-![CarbonForgeOfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarbonForgeOfi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![CarbonForgeOfi Repositories](https://github-readme-stats.vercel.app/api/pin/?username=CarbonForgeOfi&repo=USER-GUIDE&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
-### Most Used Languages
+### Contributor Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarbonForgeOfi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+<table>
+<tr>
+<td width="50%">
 
-### GitHub Streak
+#### Techoraye
+![Techoraye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techoraye&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=CarbonForgeOfi&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+</td>
+<td width="50%">
 
-### Repository Stats
+#### technomagniaque
+![technomagniaque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=technomagniaque&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=CarbonForgeOfi&repo=USER-GUIDE&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### Most Used Languages (Techoraye)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techoraye&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide_title=true)
+
+</td>
+<td width="50%">
+
+#### Most Used Languages (technomagniaque)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technomagniaque&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide_title=true)
+
+</td>
+</tr>
+</table>
+
+### Contribution Activity
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=techoraye&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
@@ -266,7 +291,6 @@ CarbonForge provides comprehensive documentation for all user types:
 - **Owners:**
   - [Techoraye](https://github.com/techoraye)
   - [technomagniaque](https://github.com/technomagniaque)
-  - [g3rry](https://github.com/ger3tto)
 
 **Project Information**
 
