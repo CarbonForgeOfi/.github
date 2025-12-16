@@ -110,35 +110,46 @@ CarbonForge is a comprehensive VPS hosting service managed entirely through Disc
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 #### Techoraye
 ![Techoraye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techoraye&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### technomagniaque
 ![technomagniaque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=technomagniaque&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true)
 
 </td>
+<td width="33%">
+
+#### ger3tto
+![ger3tto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ger3tto&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true)
+
+</td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%">
 
 #### Most Used Languages (Techoraye)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techoraye&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide_title=true)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### Most Used Languages (technomagniaque)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technomagniaque&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide_title=true)
 
 </td>
+<td width="33%">
+
+#### Most Used Languages (ger3tto)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ger3tto&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide_title=true)
+
+</td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -287,6 +298,7 @@ CarbonForge provides comprehensive documentation for all user types:
 - **Owners:**
   - [Techoraye](https://github.com/techoraye)
   - [technomagniaque](https://github.com/technomagniaque)
+  - [ger3tto](https://github.com/ger3tto)
 
 **Project Information**
 
