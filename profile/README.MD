@@ -8,14 +8,14 @@ A powerful Discord bot-based VPS management platform that allows users to deploy
 
 ## 📋 Table of Contents
 
-- [What is CarbonForge?](#what-is-carbonforge)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [GitHub Stats](#github-stats)
-- [Documentation](#documentation)
-- [Getting Started](#getting-started)
-- [Support & Links](#support--links)
-- [Credits](#credits)
+- [🎯 What is CarbonForge?](#-what-is-carbonforge)
+- [✨ Key Features](#-key-features)
+- [💻 Tech Stack](#-tech-stack)
+- [📊 GitHub Stats](#-github-stats)
+- [📚 Documentation](#-documentation)
+- [🚀 Getting Started](#-getting-started)
+- [🔗 Support & Links](#-support--links)
+- [👥 Credits](#-credits)
 
 ---
 
@@ -141,7 +141,22 @@ CarbonForge is a comprehensive VPS hosting service managed entirely through Disc
 
 ### Contribution Activity
 
+<table>
+<tr>
+<td width="50%">
+
+#### Techoraye Streak
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=techoraye&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</td>
+<td width="50%">
+
+#### technomagniaque Streak
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=technomagniaque&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</td>
+</tr>
+</table>
 
 </div>
 
