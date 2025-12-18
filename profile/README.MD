@@ -36,7 +36,6 @@ CarbonForge is a comprehensive VPS hosting service managed entirely through Disc
 - **Type:** Discord Bot (Closed Source)
 - **Infrastructure:** Proxmox VE
 - **Availability:** Exclusive to CarbonForge Discord Server
-- **Status:** Production Ready
 
 ---
 
