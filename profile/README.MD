@@ -277,9 +277,10 @@ CarbonForge provides comprehensive documentation for all user types:
 
 ### Social Media
 
-• 💻 **GitHub** — [github.com/CarbonForgeOfi](https://github.com/CarbonForgeOfi)  
-• 🎵 **TikTok** — [@carbonforgeofi](https://www.tiktok.com/@carbonforgeofi)  
-• 💬 **Discord** — [discord.gg/MSUAmVu7d9](https://discord.gg/MSUAmVu7d9)
+- 💻 **GitHub** — [github.com/CarbonForgeOfi](https://github.com/CarbonForgeOfi)  
+- 🎵 **TikTok** — [@carbonforgeofi](https://www.tiktok.com/@carbonforgeofi)  
+- 💬 **Discord** — [discord.gg/MSUAmVu7d9](https://discord.gg/MSUAmVu7d9)  
+- 🐦 **X (Twitter)** — [x.com/CarbonForgeOfi](https://x.com/CarbonForgeOfi)
 
 ### Documentation Repositories
 
